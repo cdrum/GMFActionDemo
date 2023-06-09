@@ -1,5 +1,9 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "china", "singapore", "mastoadmin", "fediadmin", "mastodon", "mastohost", "fediverse" , "pixelfed", "wwdc", "avgeek", "pilot", "aviation"],
+    "Tags": [ "china", "singapore", "asean",
+             "mastoadmin", "fediadmin", "mastodon", "mastohost", "fediverse", "pixelfed", "singleuserinstance",
+             "wwdc", "apple", 
+             "avgeek", "pilot", "aviation"
+            ],
     "Instances": [ "hachyderm.io", "mastodon.social", "infosec.exchange", "mstdn.social", "mas.to", "mastodon.online" ]
 }
